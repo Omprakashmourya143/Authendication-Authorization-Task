@@ -1,5 +1,7 @@
 JWT Authentication API 
+
 https://authendication-authorization-task.onrender.com
+
 Welcome to the JWT Auth API
 
 1. Register User
